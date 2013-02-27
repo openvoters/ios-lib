@@ -12,7 +12,7 @@ Installation
 The tool requires you to use [CocoaPods][cocoapods]. To install it just add this line to your project's `Podspec` file:
 
 ```ruby
-pod 'iOpenVoters'
+pod 'OpenVoters'
 ```
 
 Usage
